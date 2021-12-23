@@ -1,19 +1,3 @@
-# UAS-Gamedev
-Nama  : Rifqi Achmad Fadhilla
-NIM   : V3920053
-Kelas : TIE
-
-# Langkah Penginstalan
-
-Anda harus menginstal Python 3.7 dan Panda3D.
-- Install Python :
-Pergi ke website python “ https://www.python.org/downloads/ “
-Lalu download python dan jalankan instalasi
-- Instal Panda3D :
-pip install panda3d
-- Buka file rubik.py di IDLE python
-- Kemudian tekan tombol run
-
 # Penjelasan Program
 Program ini merupakan sebuah simulator rubik yang digunakan untuk mensimulasikan permainan rubik, Pembuatan game ini disusun menggunakan Bahasa pemrograman Python yang menggunakan GUI Panda 3D
 
@@ -33,5 +17,3 @@ Pemain dapat menggeser rubik terlebih dahulu lalu untuk menggerakkan tekan
 ENTER , kemudian rubik akan bergerak sejumlah berapa kali tombol-tombol
 tersebut ditekan.
 
-Catatan
-Mohon maaf untuk file exe masih tetap tidak bisa di run dikarenakan belum bisa dirender oleh GPU
